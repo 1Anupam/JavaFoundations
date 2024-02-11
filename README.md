@@ -1,1 +1,1 @@
-# JavaFoundations
+# Full Stack Java Development
